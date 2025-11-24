@@ -10,4 +10,6 @@ Any Web Server challenge : 1$ very easy
 Any Forensic challenge : 40$ for hards / free for another hards writeup in the category or in app-sys / craking, 20$ medium, 1$ very easy to easy
 Challenge not leak -> 50$ / more / free for another writeup.
 
+# I can proof that I solved the challenge.
+
 Contact : @12392731939940 ( on discord ) 
