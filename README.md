@@ -1,7 +1,7 @@
 # Root-me-solution
 Price for root me solution.
 
-Any LinKern challenge : 50$ or another very hard writeup.
+Any App-Sys challenge : 50$ or another very hard writeup.
 Any Web Server challenge : 1$ very easy
                            5$ easy
                            15$ Medium
